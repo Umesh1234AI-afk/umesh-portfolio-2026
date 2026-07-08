@@ -1,36 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+#  Umesh Chandra – Data Scientist Portfolio
 
-## Getting Started
+Welcome to my personal portfolio website showcasing my journey as a **Data Scientist**, including my professional experience, AI projects, technical skills, certifications, leadership activities, and achievements.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+##  Live Portfolio
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🔗 **Portfolio Website**  
+**https://umesh-portfolio-2026-enji.vercel.app/**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+##  About Me
 
-## Learn More
+Hi, I'm **Umesh Chandra**, a passionate **Data Scientist** at **vijAI Robotics** with expertise in Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack AI Application Development.
 
-To learn more about Next.js, take a look at the following resources:
+I enjoy building intelligent systems that solve real-world problems using AI and Data Science.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+##  Portfolio Highlights
 
-## Deploy on Vercel
+-  Modern & Responsive UI
+-  AI & Data Science Projects
+-  Professional Experience
+-  Leadership & Achievements
+-  Certifications
+-  Technical Skills
+-  Featured Projects
+-  Contact Section
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+##  Featured Projects
+
+###  HeatSafe AI
+An AI-powered Weather & Health Alert System providing:
+- Real-time Weather
+- Temperature & Humidity
+- Heatwave Alerts
+- Rain Alerts
+- AI Health Risk Prediction
+- Voice & Text Assistant
+
+### 🌍 ExploreXAI
+An AI-powered Travel Assistant featuring:
+- Destination Information
+- Hotel Recommendations
+- Weather Forecast
+- Food Suggestions
+- Voice Assistant
+- AI Travel Guidance
+
+### 📊 Other Projects
+
+- Flight Delay Prediction
+- Telecom Churn Prediction
+- Customer Analytics
+- Machine Learning Projects
+- Data Visualization Dashboards
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Git & GitHub
+- Vercel
+
+---
+
+##  Live Demo
+
+ **https://umesh-portfolio-2026-enji.vercel.app/**
+
+---
+
+##  Connect With Me
+
+ Portfolio  
+https://umesh-portfolio-2026-enji.vercel.app/
+
+ GitHub  
+https://github.com/Umesh1234AI-afk
+
+ LinkedIn  
+*(Update your LinkedIn profile URL here.)*
+
+---
+
+##  Support
+
+If you like this portfolio, please consider giving this repository a ⭐ Star.
+
+Thank you for visiting my portfolio!
