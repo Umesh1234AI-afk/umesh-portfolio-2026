@@ -78,7 +78,7 @@ export default function Home() {
     <div>
 
       <p className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-50 border border-blue-100 text-blue-700 text-sm font-semibold mb-6">
-        DATA SCIENTIST • AI DEVELOPER
+        DATA SCIENTIST • AI DEVELOPER • FOUNDER OF EXPLOREXAI
       </p>
 
      
@@ -146,7 +146,7 @@ export default function Home() {
   </a>
 
   <a
-    href="https://linkedin.com/in/YOUR-LINK"
+    href="https://www.linkedin.com/in/umesh-chandra-660429307/"
     target="_blank"
     className="w-12 h-12 rounded-full bg-blue-600 text-white flex items-center justify-center hover:scale-110 transition"
   >
@@ -220,7 +220,7 @@ export default function Home() {
 </span>
 
 <span className="bg-white rounded-xl px-3 py-2 text-gray-700 font-medium">
-  🚀 ExploreXAI Travel Platform — Active Development
+  🚀 ExploreXAI Travel Platform — Live
 </span>
           </div>
         </div>
@@ -253,8 +253,8 @@ export default function Home() {
 
           <p className="text-slate-300 text-lg leading-9">
 
-            I am a Data Scientist and AI Developer with a background in
-            Telecom Engineering and Project Management.
+            I am a Data Scientist, AI Developer and Founder of ExploreXAI
+            with a background in Telecom Engineering and Project Management.
 
             My professional journey began in large-scale telecom projects
             where I worked with Vodafone Idea and Reliance Jio,
@@ -311,7 +311,7 @@ export default function Home() {
         "Worked on data cleaning, preprocessing, visualization and business insight generation.",
         "Practicing Machine Learning workflows using Scikit-learn.",
         "Built HeatSafe AI, an AI-powered climate health assistant.",
-        "Developing ExploreXAI, an AI-powered travel discovery platform.",
+        "Founded and developed ExploreXAI, a live AI-powered travel planning platform.",
         "Created Career Learning Hub for students, scholarships, coding and AI learning resources.",
         "Using modern web technologies including Next.js, React, Tailwind CSS, Git and GitHub.",
       ],
@@ -465,17 +465,17 @@ export default function Home() {
       {
         
   title: "ExploreXAI",
-  status: "Active Development",
-  tag: "AI Travel Assistant",
+  status: "Live Product",
+  tag: "AI Travel Planning Platform",
   color: "orange",
   description:
-    "A voice-enabled AI travel platform powered by Vranda AI Assistant that helps users explore countries, states and destinations through chat, voice answers, travel insights and personalized itinerary planning.",
+    "A live AI-powered travel platform founded and developed by Umesh Chandra. Vranda AI helps users discover worldwide destinations through natural Hindi voice and text, while the AI Trip Planner creates personalized day-wise itineraries.",
 
   points: [
-    " Vranda AI Voice & Chat Travel Assistant",
-    " Worldwide Destination Discovery",
-    " Top Places, Foods, Videos & Hotel Links",
-    " Personalized Trip Itinerary & Travel Planning",
+    " Vranda Hindi Voice & Chat Travel Assistant",
+    " Places, Foods, Weather, Videos & Hotel Suggestions",
+    " Personalized Day-wise Itinerary & Smart Budget Planning",
+    " Google Login, Subscription Plans & Secure Razorpay Payments",
   ],
 },
       {
@@ -551,10 +551,12 @@ export default function Home() {
 
         <div className="flex flex-wrap gap-3 mt-8">
           <a
-            href="#contact"
+            href={project.title === "ExploreXAI" ? "https://explorexai.vercel.app/" : "#contact"}
+            target={project.title === "ExploreXAI" ? "_blank" : undefined}
+            rel={project.title === "ExploreXAI" ? "noopener noreferrer" : undefined}
             className="px-5 py-2 rounded-xl bg-blue-600 text-white font-semibold hover:bg-blue-700 transition"
           >
-            Details
+            {project.title === "ExploreXAI" ? "Visit Live Website" : "Details"}
           </a>
 
           <a
