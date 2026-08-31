@@ -173,7 +173,7 @@ export default function Home() {
      
 <div className="grid grid-cols-3 gap-4 mt-12 max-w-xl">
   <div className="bg-white border border-gray-200 rounded-2xl p-5 shadow-sm">
-    <h3 className="text-3xl font-black text-blue-600">5+</h3>
+    <h3 className="text-3xl font-black text-blue-600">25+</h3>
     <p className="text-gray-600 text-sm mt-1">Projects</p>
   </div>
 
@@ -183,7 +183,7 @@ export default function Home() {
   </div>
 
   <div className="bg-white border border-gray-200 rounded-2xl p-5 shadow-sm">
-    <h3 className="text-3xl font-black text-purple-600">2</h3>
+    <h3 className="text-3xl font-black text-purple-600">3</h3>
     <p className="text-gray-600 text-sm mt-1">Websites</p>
   </div>
   </div>
