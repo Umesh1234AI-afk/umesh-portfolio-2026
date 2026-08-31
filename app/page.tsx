@@ -124,7 +124,7 @@ export default function Home() {
         </a>
 
         <a
-          href="/resume.pdf"
+          href="/Umesh_Chandra_Resume.pdf"
           target="_blank"
           className="bg-white border border-gray-200 text-gray-800 px-8 py-4 rounded-2xl font-bold shadow-sm hover:border-blue-500 hover:text-blue-600 hover:-translate-y-1 transition-all duration-300"
         >
